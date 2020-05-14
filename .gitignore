@@ -4,12 +4,12 @@
 
 /__pycache__
 
-.events.db
+events.db
 
-.events.db-shm
+events.db-shm
 
-.events.db-wal
+events.db-wal
 
-.rasa.db
+rasa.db
 
-.story_graph.dot
+story_graph.dot
